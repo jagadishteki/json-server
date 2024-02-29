@@ -455,7 +455,7 @@
       "phone": "6024483804"
     }
   ],
-  "groups": [
+  "contact-groups": [
     {
       "id": "1",
       "name": "Group-1",
@@ -513,7 +513,7 @@
       "status": 1
     }
   ],
-  "groups-backup": [
+  "contact-groups-backup": [
     {
       "id": "1",
       "name": "Group-1",
