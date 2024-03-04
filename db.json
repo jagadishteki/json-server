@@ -233,7 +233,9 @@
   ],
   "contacts": [
     {
-      "id": "1",
+      "id": 1,
+      "groupId": 0,
+      "groupName": "",
       "name": "Leanne Graham",
       "email": "Sincere@april.biz",
       "speciality": "Accident & Emergency Medicine",
@@ -245,7 +247,7 @@
       "phone": "7707368031"
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Ervin Howell",
       "email": "Shanna@melissa.tv",
       "speciality": "Breast Surgery",
@@ -257,7 +259,7 @@
       "phone": "6010926593"
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Clementine Bauch Jagadish",
       "email": "Nathan@yesenia.net",
       "speciality": "Accident & Emergency Medicine",
@@ -269,7 +271,7 @@
       "phone": "6143123444"
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Patricia Lebsack",
       "email": "Julianne.OConner@kory.org",
       "speciality": "Breast Surgery",
@@ -281,7 +283,7 @@
       "phone": "9431709623"
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Chelsey Dietrich",
       "email": "Lucio_Hettinger@annie.ca",
       "speciality": "Acupressure",
@@ -317,7 +319,7 @@
       "phone": "6210076132"
     },
     {
-      "id": "8",
+      "id": 8,
       "name": "Nicholas Runolfsdottir",
       "email": "Sherwood@rosamond.me",
       "speciality": "Breast Surgery",
@@ -329,7 +331,7 @@
       "phone": "8564936943"
     },
     {
-      "id": "9",
+      "id": 9,
       "name": "Glenna Reichert",
       "email": "Chaim_McDermott@dana.io",
       "speciality": "Accupressure",
@@ -341,7 +343,7 @@
       "phone": "7759766794"
     },
     {
-      "id": "10",
+      "id": 10,
       "name": "Clementina DuBuque",
       "email": "Rey.Padberg@karina.biz",
       "speciality": "Accident & Emergency Medicine",
@@ -355,56 +357,56 @@
   ],
   "contact-groups": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Group-1",
       "description": "This is Group-1",
       "created": "2023-04-05",
       "status": 0
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Group-2",
       "description": "This is Group-2",
       "created": "2023-05-04",
       "status": 1
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Group-3",
       "description": "This is Group-3",
       "created": "2023-03-02",
       "status": 0
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Group-4",
       "description": "This is Group-4",
       "created": "2023-03-20",
       "status": 1
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Group-5",
       "description": "This is Group-52",
       "created": "2023-03-01",
       "status": 1
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "Group-6",
       "description": "This is Group-6",
       "created": "2023-05-05",
       "status": 0
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "Group-7",
       "description": "This is Group-7",
       "created": "2023-08-04",
       "status": 0
     },
     {
-      "id": "8",
+      "id": 8,
       "name": "Group-8",
       "description": "This is Group-8",
       "created": "2023-03-06",
