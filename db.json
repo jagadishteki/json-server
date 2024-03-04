@@ -239,7 +239,7 @@
       "speciality": "Accident & Emergency Medicine",
       "source": "Patient",
       "created": "2023-04-05",
-      "ad": 0,
+      "status": 0,
       "countryCode": "4",
       "phone": "7707368031"
     },
@@ -250,7 +250,7 @@
       "speciality": "Breast Surgery",
       "source": "Lead",
       "created": "2023-05-04",
-      "ad": 1,
+      "status": 1,
       "countryCode": "36",
       "phone": "6010926593"
     },
@@ -261,7 +261,7 @@
       "speciality": "Accident & Emergency Medicine",
       "source": "Patient",
       "created": "2023-03-02",
-      "ad": 0,
+      "status": 0,
       "countryCode": "50",
       "phone": "6143123444"
     },
@@ -272,7 +272,7 @@
       "speciality": "Breast Surgery",
       "source": "Lead",
       "created": "2023-03-20",
-      "ad": 1,
+      "status": 1,
       "countryCode": "124",
       "phone": "9431709623"
     },
@@ -283,7 +283,7 @@
       "speciality": "Accupressure",
       "source": "Lead",
       "created": "2023-03-01",
-      "ad": 1,
+      "status": 1,
       "countryCode": "144",
       "phone": "9254541289"
     },
@@ -294,7 +294,7 @@
       "speciality": "Accupressure",
       "source": "Lead",
       "created": "2024-02-08",
-      "ad": 1,
+      "status": 1,
       "countryCode": "36",
       "phone": "7793584786"
     },
@@ -305,7 +305,7 @@
       "speciality": "Accupressure",
       "source": "Patient",
       "created": "2023-03-01",
-      "ad": 1,
+      "status": 1,
       "countryCode": "50",
       "phone": "6210076132"
     },
@@ -316,7 +316,7 @@
       "speciality": "Breast Surgery",
       "source": "Lead",
       "created": "2023-05-05",
-      "ad": 0,
+      "status": 0,
       "countryCode": "156",
       "phone": "8564936943"
     },
@@ -327,7 +327,7 @@
       "speciality": "Accupressure",
       "source": "Patient",
       "created": "2023-08-04",
-      "ad": 0,
+      "status": 0,
       "countryCode": "250",
       "phone": "7759766794"
     },
@@ -338,7 +338,7 @@
       "speciality": "Accident & Emergency Medicine",
       "source": "Patient",
       "created": "2023-03-06",
-      "ad": 1,
+      "status": 1,
       "countryCode": "276",
       "phone": "6024483804"
     }
@@ -351,7 +351,7 @@
       "speciality": "Accident & Emergency Medicine",
       "source": "Patient",
       "created": "2023-04-05",
-      "ad": 0,
+      "status": 0,
       "countryCode": "4",
       "phone": "7707368031"
     },
@@ -362,7 +362,7 @@
       "speciality": "Breast Surgery",
       "source": "Lead",
       "created": "2023-05-04",
-      "ad": 1,
+      "status": 1,
       "countryCode": "36",
       "phone": "6010926593"
     },
@@ -373,7 +373,7 @@
       "speciality": "Accident & Emergency Medicine",
       "source": "Patient",
       "created": "2023-03-02",
-      "ad": 0,
+      "status": 0,
       "countryCode": "50",
       "phone": "6143123444"
     },
@@ -384,7 +384,7 @@
       "speciality": "Breast Surgery",
       "source": "Lead",
       "created": "2023-03-20",
-      "ad": 1,
+      "status": 1,
       "countryCode": "124",
       "phone": "9431709623"
     },
@@ -395,7 +395,7 @@
       "speciality": "Accupressure",
       "source": "Lead",
       "created": "2023-03-01",
-      "ad": 1,
+      "status": 1,
       "countryCode": "144",
       "phone": "9254541289"
     },
@@ -406,7 +406,7 @@
       "speciality": "Accupressure",
       "source": "Lead",
       "created": "2024-02-08",
-      "ad": 1,
+      "status": 1,
       "countryCode": "36",
       "phone": "7793584786"
     },
@@ -417,7 +417,7 @@
       "speciality": "Accupressure",
       "source": "Patient",
       "created": "2023-01-03",
-      "ad": 1,
+      "status": 1,
       "countryCode": "50",
       "phone": "6210076132"
     },
@@ -428,7 +428,7 @@
       "speciality": "Breast Surgery",
       "source": "Lead",
       "created": "2023-05-05",
-      "ad": 0,
+      "status": 0,
       "countryCode": "156",
       "phone": "8564936943"
     },
@@ -439,7 +439,7 @@
       "speciality": "Accupressure",
       "source": "Patient",
       "created": "2023-08-04",
-      "ad": 0,
+      "status": 0,
       "countryCode": "250",
       "phone": "7759766794"
     },
@@ -450,7 +450,7 @@
       "speciality": "Accident & Emergency Medicine",
       "source": "Patient",
       "created": "2023-03-06",
-      "ad": 1,
+      "status": 1,
       "countryCode": "276",
       "phone": "6024483804"
     }
