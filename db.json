@@ -443,6 +443,7 @@
       "email_subject": "",
       "groupName": "Group-1",
       "scheduledOn": "19-03-2024",
+      "createdOn": "24-01-2024",
       "unitName": 1,
       "approved": 1,
       "campStatus": 1
@@ -457,7 +458,8 @@
       "from_email": "jagadishteki@quadone.com",
       "email_subject": "Testing Mail",
       "groupName": "Group-2",
-      "scheduledOn": "18-02-2024",
+      "scheduledOn": "20-02-2024",
+      "createdOn": "18-02-2024",
       "unitName": 2,
       "approved": 1,
       "campStatus": 1
@@ -473,6 +475,7 @@
       "email_subject": "",
       "groupName": "Group-3",
       "scheduledOn": "17-01-2024",
+      "createdOn": "12-01-2024",
       "unitName": 3,
       "approved": 0,
       "campStatus": 1
@@ -488,6 +491,7 @@
       "email_subject": "Hi How are You?",
       "groupName": "Group-4",
       "scheduledOn": "16-12-2023",
+      "createdOn": "12-12-2023",
       "unitName": 4,
       "approved": 1,
       "campStatus": 0
@@ -502,7 +506,8 @@
       "from_email": "",
       "email_subject": "",
       "groupName": "Group-1",
-      "scheduledOn": "19-03-2024",
+      "scheduledOn": "21-03-2024",
+      "createdOn": "19-03-2024",
       "unitName": 1,
       "approved": 1,
       "campStatus": 0
@@ -518,6 +523,7 @@
       "email_subject": "",
       "groupName": "Group-1",
       "scheduledOn": "19-03-2024",
+      "createdOn": "24-02-2024",
       "unitName": 1,
       "approved": 0,
       "campStatus": 1
@@ -533,6 +539,7 @@
       "email_subject": "Appointment Scheduled",
       "groupName": "Group-2",
       "scheduledOn": "18-02-2024",
+      "createdOn": "06-01-2024",
       "unitName": 7,
       "approved": 1,
       "campStatus": 0
@@ -548,6 +555,7 @@
       "email_subject": "Appointment Scheduled",
       "groupName": "Group-1",
       "scheduledOn": "17-01-2024",
+      "createdOn": "14-01-2024",
       "unitName": 8,
       "approved": 0,
       "campStatus": 1
@@ -563,6 +571,7 @@
       "email_subject": "",
       "groupName": "Group-9",
       "scheduledOn": "18-02-2024",
+      "createdOn": "01-01-2024",
       "unitName": 9,
       "approved": 1,
       "campStatus": 1
@@ -578,6 +587,7 @@
       "email_subject": "Request Feedback",
       "groupName": "Group-10",
       "scheduledOn": "16-01-2024",
+      "createdOn": "07-01-2024",
       "unitName": 9,
       "approved": 1,
       "campStatus": 1
