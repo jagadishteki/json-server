@@ -435,7 +435,7 @@
     {
       "id": 1,
       "campaignName": "Campaign One",
-      "campaignIds": [1],
+      "campaignIds": [1,2],
       "dltId": "dlt_101",
       "senderId": "si_001",
       "fromName": "",
@@ -451,7 +451,7 @@
     {
       "id": 2,
       "campaignName": "Campaign Two",
-      "campaignIds": [2],
+      "campaignIds": [2,3],
       "dltId": "",
       "senderId": "",
       "fromName": "Jagadish",
